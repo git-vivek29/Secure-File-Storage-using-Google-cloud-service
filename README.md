@@ -1,6 +1,6 @@
 # Secure File Storage using Google cloud service
 
-## In this project, the file is encrypted with AES encryption algorithm and uploaded to Google drive using Google cloud service such as drive API. The encrypted file is now safe on cloud storage, the file can be viewed only after the decryption which ensures security and prevents from the access of third party. User can download the encrypted file from cloud storage (Google Drive) and can decrypt it using cipher key.
+### In this project, the file is encrypted with AES encryption algorithm and uploaded to Google drive using Google cloud service such as drive API. The encrypted file is now safe on cloud storage, the file can be viewed only after the decryption which ensures security and prevents from the access of third party. User can download the encrypted file from cloud storage (Google Drive) and can decrypt it using cipher key.
 ### Architecture Diagram
 
 ![Architecture Diagram](https://github.com/git-vivek29/Secure-File-Storage-using-Google-cloud-service/blob/main/ArchitectureDiagram.jpg "Architecture Diagram")
